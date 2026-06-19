@@ -18,6 +18,7 @@
   "packageManager": "pnpm@10.33.2",
   "devDependencies": {
     "@biomejs/biome": "2.5.0",
-    "turbo": "^2.9.18"
+    "turbo": "^2.9.18",
+    "vitest": "^4.1.9"
   }
 }
